@@ -1,0 +1,2 @@
+username,password_hash,role
+admin,$2b$12$wWlqCu/J21u.xe4iMi6Uq.Qg4dFUwYoe5UPHh.1S5bZVq.5bkt5O6,admin
